@@ -14,22 +14,6 @@ another, especially now that the day of his return is drawing near." Hebrews 10:
 ## Docs
 
 #### Getting Started
-Install dependencies:
-
-```
-npm install
-```
 
 #### Running the App
 
-Listen for server-side changes:
-
-```
-nodemon
-```
-
-Listen for client side changes and compile SASS/JS:
-
-```
-gulp
-```
